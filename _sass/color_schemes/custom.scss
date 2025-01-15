@@ -1,0 +1,23 @@
+// Custom color scheme
+
+// Base colors
+$white: #ffffff;
+$grey-dk-250: #2b2b2b;
+$green-000: #9fef00;
+
+// Theme colors
+$body-background-color: #2f3329;
+$sidebar-color: darken($body-background-color, 5%);
+$border-color: lighten($body-background-color, 10%);
+$body-text-color: $white;
+$body-heading-color: $white;
+$nav-child-link-color: $white;
+$search-result-preview-color: $white;
+$link-color: $green-000;
+$btn-primary-color: $green-000;
+$base-button-color: $green-000;
+$code-background-color: $grey-dk-250;
+
+// Print colors
+$print-page-header-color: $body-background-color;
+$print-body-text-color: $body-text-color;
